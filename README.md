@@ -13,7 +13,7 @@ The hospital operates in a high-risk environment: ransomware attacks, phishing, 
 
 ## What This Plan Covers
 
-### Phase 1 — Risk Analysis
+### Phase 1 - Risk Analysis
 Risk assessment for:
 - Ransomware attacks on EHR systems
 - Phishing and credential theft
@@ -23,7 +23,7 @@ Risk assessment for:
 
 Each risk is scored by Likelihood x Impact, with clear mitigation owners.
 
-### Phase 2 — Policy Establishment
+### Phase 2 - Policy Establishment
 - Access Control Policy — Role-Based Access Control (RBAC), Least Privilege
 - Data Retention & Minimization Policy (GDPR Art. 5)
 - Password Policy — Minimum 12 characters + MFA
@@ -32,7 +32,7 @@ Each risk is scored by Likelihood x Impact, with clear mitigation owners.
 
 Aligned with GDPR Art. 25 (Data Protection by Design) and Art. 32 (Security of Processing).
 
-### Phase 3 — Technical Measures
+### Phase 3 - Technical Measures
 - Encryption: AES-256 for data at rest, TLS 1.2+ in transit
 - Multi-Factor Authentication (MFA) for all clinical systems
 - Network Segmentation, Firewalls, Intrusion Detection (IDS/IPS)
@@ -41,14 +41,14 @@ Aligned with GDPR Art. 25 (Data Protection by Design) and Art. 32 (Security of P
 
 Aligned with NIS2 Directive (EU) 2022/2555 Art. 21.
 
-### Phase 4 — Monitoring & Incident Response
+### Phase 4 - Monitoring & Incident Response
 - 24/7 SIEM monitoring
 - Incident Response Plan with clear roles: CISO, DPO, IT Team, Legal
 - Breach Notification: 72-hour notification to Supervisory Authority (GDPR Art. 33)
 - Notification to affected Data Subjects without undue delay (GDPR Art. 34)
 - Post-incident review and lessons learned
 
-### Phase 5 — Training & Awareness
+### Phase 5 - Training & Awareness
 - Quarterly cybersecurity training for all staff
 - Phishing simulation for clinical and admin staff
 - Specific GDPR training for data handlers
@@ -61,7 +61,7 @@ Aligned with NIS2 Directive (EU) 2022/2555 Art. 21.
 | **NIS2** | Art. 21 (Cybersecurity Risk Management), Incident Reporting |
 
 ## Files
-- `Compliance-Plan-Medicare-Hospital.pdf` — Full Compliance Plan (Final Version)
+- `gdpr-nis2-compliance-plan-healthcare_Medicare.pdf` — Full Compliance Plan (Final Version)
 
 ## Disclaimer
 This is an academic case study based on a fictional regional hospital scenario, created for educational and portfolio purposes. It demonstrates practical application of GDPR and NIS2 in a healthcare environment.
