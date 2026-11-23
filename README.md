@@ -1,7 +1,7 @@
 # gdpr-nis2-compliance-plan-healthcare
 GDPR &amp; NIS2 Compliance Plan for a 500-employee Regional Hospital | Risk Analysis, Technical Measures, Incident Response &amp; Governance
 
-# GDPR & NIS2 Compliance Plan — Regional Hospital Case Study
+# GDPR & NIS2 Compliance Plan - Regional Hospital Case Study
 
 **Author:** Aye Khine Lwin  
 **Focus:** Cybersecurity & Operational Compliance | MSc in Informática  
@@ -24,9 +24,9 @@ Risk assessment for:
 Each risk is scored by Likelihood x Impact, with clear mitigation owners.
 
 ### Phase 2 - Policy Establishment
-- Access Control Policy — Role-Based Access Control (RBAC), Least Privilege
+- Access Control Policy - Role-Based Access Control (RBAC), Least Privilege
 - Data Retention & Minimization Policy (GDPR Art. 5)
-- Password Policy — Minimum 12 characters + MFA
+- Password Policy - Minimum 12 characters + MFA
 - BYOD & Remote Work Policy
 - Third-Party Vendor / DPA Management
 
